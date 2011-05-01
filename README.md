@@ -1,1 +1,1 @@
-Just a quick exploration of the Moonty Hall PRoblem
+Just a quick exploration of the Monty Hall Problem
